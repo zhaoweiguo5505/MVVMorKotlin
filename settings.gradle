@@ -1,0 +1,2 @@
+include ':app', ':mvvmlibrary', ':mylibrary'
+rootProject.name='MVVMKotlin'

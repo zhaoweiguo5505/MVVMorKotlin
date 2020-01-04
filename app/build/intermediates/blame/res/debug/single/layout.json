@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zhaoweiguo/StudioProjects/MVVMKotlin/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/zhaoweiguo/StudioProjects/MVVMKotlin/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/zhaoweiguo/StudioProjects/MVVMKotlin/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_login.xml",
+        "source": "/Users/zhaoweiguo/StudioProjects/MVVMKotlin/app/src/main/res/layout/activity_login.xml"
+    }
+]
